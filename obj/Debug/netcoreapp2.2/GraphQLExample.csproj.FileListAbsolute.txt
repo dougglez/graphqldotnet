@@ -1,0 +1,14 @@
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\bin\Debug\netcoreapp2.2\GraphQLExample.deps.json
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\bin\Debug\netcoreapp2.2\GraphQLExample.runtimeconfig.json
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\bin\Debug\netcoreapp2.2\GraphQLExample.runtimeconfig.dev.json
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\bin\Debug\netcoreapp2.2\GraphQLExample.dll
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.csprojAssemblyReference.cache
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.csproj.CoreCompileInputs.cache
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.RazorAssemblyInfo.cache
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.RazorAssemblyInfo.cs
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.AssemblyInfoInputs.cache
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.AssemblyInfo.cs
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.RazorTargetAssemblyInfo.cache
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\bin\Debug\netcoreapp2.2\GraphQLExample.pdb
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.dll
+C:\Users\dm2964\Documents\AppDev\GraphQLExample\obj\Debug\netcoreapp2.2\GraphQLExample.pdb
